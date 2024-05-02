@@ -1,5 +1,7 @@
-{
-    "iExec Company": [
+[
+  {
+    "title": "iExec Company",
+    "links": [
       {
         "text": "Homepage",
         "url": "https://iex.ec/"
@@ -12,8 +14,11 @@
         "text": "Bridge",
         "url": "https://bridge-bellecour.iex.ec/"
       }
-    ],
-    "Community": [
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
       {
         "text": "Github",
         "url": "https://github.com/iExecBlockchainComputing"
@@ -52,3 +57,4 @@
       }
     ]
   }
+]
