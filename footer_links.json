@@ -1,0 +1,54 @@
+{
+    "iExec Company": [
+      {
+        "text": "Homepage",
+        "url": "https://iex.ec/"
+      },
+      {
+        "text": "Explorer",
+        "url": "https://explorer.iex.ec"
+      },
+      {
+        "text": "Bridge",
+        "url": "https://bridge-bellecour.iex.ec/"
+      }
+    ],
+    "Community": [
+      {
+        "text": "Github",
+        "url": "https://github.com/iExecBlockchainComputing"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/iEx_ec"
+      },
+      {
+        "text": "Discord",
+        "url": "https://discord.com/invite/pbt9m98wnU"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/iexec_rlc_official"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/channel/UCwWxZWvKVHn3CXnmDooLWtA"
+      },
+      {
+        "text": "Developers",
+        "url": "https://iex.ec/developers/"
+      },
+      {
+        "text": "Reddit",
+        "url": "https://www.reddit.com/r/iexec/"
+      },
+      {
+        "text": "LinkedIn",
+        "url": "https://www.linkedin.com/company/iex.ec/mycompany/"
+      },
+      {
+        "text": "Medium",
+        "url": "https://medium.com/iex-ec"
+      }
+    ]
+  }
